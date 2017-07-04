@@ -1,2 +1,3 @@
 # hello-world
-Test repository
+
+So I'm amending this readme file so I can learn about the commit function
